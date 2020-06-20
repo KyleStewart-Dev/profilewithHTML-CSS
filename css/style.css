@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@300&family=Open+Sans&display=swap');
+/* import of google fonts test */
+
 .test-color {
     background-color: blue;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
 }
